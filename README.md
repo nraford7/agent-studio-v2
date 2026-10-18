@@ -1,5 +1,11 @@
 # Agent Studio v2
 
+> **This repository has moved.** Development continues at **[nraford7/agent-studio](https://github.com/nraford7/agent-studio)**, which contains everything here plus later work (source check, single-model baseline, trials, field-evidence log, Codex critic, light brainstorm path, self-check). This copy is archived as of 2026-10-18 and frozen at the August 2026 version. To install, use:
+>
+> ```bash
+> git clone https://github.com/nraford7/agent-studio.git
+> ```
+
 **Agent Studio v2 is a [Claude Code](https://claude.com/claude-code) skill for designing AI workflows and building the teams that run them.**
 
 > **Lineage & credit.** Agent Studio v2 is the evidence-gated Agent Studio line, extended with a team operating system. Its methodology kernel, staff-neutral overlays, team-manifest and README templates, and package validator are **adapted with grateful credit from [Agent Designer](https://github.com/dbmcco/agent-designer) by Braydon McCormick** (v0.2.0, MIT). Agent Designer contributed the craft of building expert ensembles; Agent Studio contributes the evidence gate that decides whether to build one at all — and how to prove it helped. See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for exactly what was adapted and what is original to Agent Studio. Both projects are MIT-licensed.
